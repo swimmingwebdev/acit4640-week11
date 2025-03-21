@@ -2,4 +2,4 @@
   ansible.builtin.dnf:
     name: redis
     state: present
-  when: ansible_facts['distribution'] == 'Rocky'
+  when: ansible_facts['distribution'] == 'rocky'
