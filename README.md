@@ -1,3 +1,3 @@
-# 4640-w11-lab-start-w25
+# ACIT4640-week11
 
-See lab instructions on D2L
+### Run Ansible configuration

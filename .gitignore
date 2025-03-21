@@ -1,3 +1,6 @@
+/scripts
+/ansible-env
+
 # Local .terraform directories
 **/.terraform/*
 
